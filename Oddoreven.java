@@ -7,6 +7,9 @@ int a=x.nextInt();
 if (a%2==0){
   System.out.println("The number is even");
 }
+else if(a%2<0){
+  System.out.println("Invalid");
+}
 else{
   System.out.println("The number is odd");
 }
