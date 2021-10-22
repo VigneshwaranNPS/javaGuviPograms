@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StringIN{
+public class Main{
 	public static void main(String [] args){
 		Scanner Ui=new Scanner(System.in);
 		String Given =Ui.nextLine();
