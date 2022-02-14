@@ -1,5 +1,5 @@
 import java.util.*;
-public class Sepcomma{
+public class Main{
 	@SuppressWarnings("resource")
 	public static void main(String args[]) {
 		Scanner read_in=new Scanner(System.in);
