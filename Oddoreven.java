@@ -1,7 +1,6 @@
 import java.util.Scanner;
 class Main{
 public static void main(String[] args){
-System.out.println("Enter the Number");
 Scanner x=new Scanner(System.in);
 int a=x.nextInt();
 if (a%2==0){
