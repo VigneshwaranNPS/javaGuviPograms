@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class GreatestNumber{
+class Main{
 public static void main(String[] qwe){
 Scanner Scan=new Scanner(System.in);
 int a=Scan.nextInt();
