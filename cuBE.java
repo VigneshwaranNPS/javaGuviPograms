@@ -7,11 +7,6 @@ public class Main{
 		@SuppressWarnings("resource")
 		Scanner inp=new Scanner(System.in);
 		int v=inp.nextInt();
-		if(v<0) {
-			System.out.print("Invalid");
-		}
-		else {
-			System.out.print(cubeOf(v));
-		}
+		System.out.print(cubeOf(v));
 	}
 }
